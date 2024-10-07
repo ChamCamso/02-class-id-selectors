@@ -1,0 +1,17 @@
+.class {
+    background-color: rgb(241, 148, 148);
+    font: Dejavu sans;
+    font-size: 30px;
+}
+
+#nambatu {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.namba-por {
+    background-color: rgb(140, 212, 140);
+    font-weight: bold;
+    font-size: 40px;
+}
